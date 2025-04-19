@@ -219,3 +219,4 @@ poetry.toml
 pyrightconfig.json
 .virtual_documents/
 # End of https://www.toptal.com/developers/gitignore/api/python,julia
+.jupyter_ystore.db
